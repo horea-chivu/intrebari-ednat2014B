@@ -1,0 +1,29 @@
+Program produs si dezvoltat de Chivu Horea.  LANG: RO
+
+	Acest program a fost facut pentru a face rezolvarea intrebarilor
+	de chestionar din cartea 'Intrebari si teste pentru obtinerea 
+	permisului de conducere auto categoria B' de la editura National
+	mai usoara si mai rapida.
+
+	CUM SE FOLOSESTE ACEST PROGRAM
+
+	Acest program se executa in fereastra de tip terminal si se navigheaza
+    prin comenzi ale tastaturii.
+
+	AM OBSERVAT O GRESEALA/EROARE.CE POT FACE?
+
+	Ma puteti anunta prin metodele GitHub sau prin adresa de 
+	email 'chivuhorea@gmail.com' .
+
+	DE CE PROGRAMUL SE EXECUTA IN TERMINAL?
+
+	Datorita faptului ca o adaptare GUI este inutila atata timp
+	cat programul este doar un auxiliar al cartii mentionate mai
+	sus si un program cu GUI si cu intrebarile si raspunsurile 
+	complete ar reprezenta un alt proiect complex ce necesita foarte mult timp.
+	Consider ca acest program poate fi util tuturor celor ce detin aceasta carte.
+
+	IN CE LIMBAJ ESTE SCRIS PROGRAMUL?
+
+	In C++.Codul este disponibil pe 
+	'https'://github.com/chivu-horea/intrebari-ednat2014B' .
