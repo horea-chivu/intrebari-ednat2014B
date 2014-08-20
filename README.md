@@ -13,10 +13,12 @@ CUM SE FOLOSESTE ACEST PROGRAM
 
 Acest program se executa in fereastra de tip terminal si se navigheaza
 prin comenzi ale tastaturii.
+
 AM OBSERVAT O GRESEALA/EROARE.CE POT FACE?
 
 Ma puteti anunta prin metodele GitHub sau prin adresa de
 email 'chivuhorea@gmail.com' .
+
 DE CE PROGRAMUL SE EXECUTA IN TERMINAL?
 
 Datorita faptului ca o adaptare GUI este inutila atata timp
