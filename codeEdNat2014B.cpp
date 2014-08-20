@@ -8,7 +8,7 @@ using namespace std;
 string a="A", b="B", c="C", ab="A,B", ac="A,C", bc="B,C", abc="A,B,C";
 //Declaratia string-ului cu raspunsurile aferente intrebarilor
 
-	string   CONVERSIE(string a);                     //Declararea prototipurilor functiilor
+	string   CONVERSIE(string a);          //Declararea prototipurilor functiilor
 	  void   OPERATOR_ASTEPTARE();
 	  void   F_INIT(string n);
 	   int   RETURNARE(int n, string &s);
@@ -17,8 +17,8 @@ string a="A", b="B", c="C", ab="A,B", ac="A,C", bc="B,C", abc="A,B,C";
 	  void   EXECUTARE_MODULE(string mesaj);
 	   int   MENIU_PRINC();
 
-string r[] = {"null",							//Initializare string-ului responsabil cu inregistrarea
-													//                                  raspunsurilor din carte
+string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
+							//                                  raspunsurilor din carte
 		/*
 		Indicatoare si marcaje rutiere
 		*/
@@ -300,7 +300,8 @@ void AFISARE_HELP()
 	cout<<"'https'://github.com/chivu-horea/intrebari-ednat2014B' .";
 }
 
-string CONVERSIE(string a)			    //functie ce converteste input-ul utilizatorului intr-un string utilizabil in interiorul
+//functie ce converteste input-ul utilizatorului intr-un string utilizabil in interiorul programului
+string CONVERSIE(string a)		
 {
 	if(a=="a" || a=="A" || a==" a" || a=="a " || a==" a " || a==" A" || a=="A " || a==" A ")
 		return "A";
@@ -336,7 +337,7 @@ void OPERATOR_ASTEPTARE()
     getch();
 }
 
-void F_INIT(string n)						//functie ce afiseaza initializare functiei cu numarul specificat
+void F_INIT(string n)	//functie ce afiseaza initializare functiei cu numarul specificat
 {
     cout<<endl;
     cout<<"####################################"<<endl<<endl;
