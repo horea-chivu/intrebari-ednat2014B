@@ -8,6 +8,7 @@ Dupa terminarea executiei functiei 1, vi se va afisa cu ce procentaj de acuratet
 Functia 2 foloseste celor ce stiu numarul intrebarii din carte si vor sa afle raspunsul corect la aceasta.
 
 README
+------
 
 CUM SE FOLOSESTE ACEST PROGRAM
 
