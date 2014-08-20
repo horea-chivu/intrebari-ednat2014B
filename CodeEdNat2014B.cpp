@@ -400,7 +400,7 @@ void INTEREB_REZ()
           else
             if(pro >= 84.61)  cout<<"Felicitari! Ai rezolvat cu o acuratete de "<<pro<<"% .";
               else
-                if(pro <= 84.61)  cout<<"Insuficient! Ai rezolvat cu o acuratete de "<<pro<<"% .";
+                if(pro <= 84.61 && pro > 20.0)  cout<<"Insuficient! Ai rezolvat cu o acuratete de "<<pro<<"% .";
                    else
                      if(pro <= 20.0)  cout<<"Execrabil! Ai rezolvat cu o acuratete de "<<pro<<"% .";
 
