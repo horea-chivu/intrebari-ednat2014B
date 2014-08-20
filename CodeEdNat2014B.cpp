@@ -78,7 +78,7 @@ string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
 		Semnalele luminoase
 		*/
 
-						     c, b, c,
+				     c, b, c,
 		c, a, c, b, a, c, b, c, b, b,
 		c, b, c, c, a, b, c, b, a, b,	  //450
 		b, b, a, a, a, c, c, c, b, c,
@@ -101,7 +101,7 @@ string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
 		/*
 		Depasirea
 		*/
-									   c,
+					       c,
 		a, b, b, b, c, a, b, a, a, c,
 		b, a, b, b, c, a, b, c, c, b,
 		a, b, c, a, b, c, b, a, a, b,
@@ -129,7 +129,7 @@ string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
 		/*
 		Reguli referitoare la manevre
 		*/
-		         b, c, a, ac, a, b, c, b,
+		      b, c, a, ac, a, b, c, b,
 		a, abc, b, bc, c, c, bc, ac, ac, b,
 		b, c, b, a, c, c, c, c, c, c,     //750
 
@@ -155,7 +155,7 @@ string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
 		/*
 		Trecerea la nivel cu calea ferata
 		*/
-							    a, b,
+					a, b,
 		c, b, b, c, c, b, c, a, a, c,	  //900
 		a, c, a, a, c, c, c, a, b, b,
 		a, c, a, b, a, c, b, b,
@@ -208,7 +208,7 @@ string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
 		/*
 		Reguli generale
 		*/
-								    a, a, a,
+				            a, a, a,
 		a, ac, b, c, ac, b, c, b, a, a,
 		b, abc, c, a, c, bc, abc, abc, a, b,
 		b, a, c, bc, bc, a, b, a, a, a,   //1200
@@ -234,7 +234,7 @@ string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
 		/*
 		Masuri de prim ajutor
 		*/
-						  a, b, a, a,
+				  a, b, a, a,
 		b, a, a, a, b, b, a, b, b, b,
 		a, b, b, b, b, a, a, a, b, b,     //1350
 		b, b, a, a, b, a, abc, c, a, a,
@@ -245,7 +245,7 @@ string r[] = {"null",			//Initializare string-ului responsabil cu inregistrarea
 		/*
 		Conducerea ecologica
 		*/
-						     ab, c, b,
+				     ab, c, b,
 		ac, b, a, ab, b, c, a, ab, abc, a, //1400
 		b, ab,
 
