@@ -380,7 +380,8 @@ void INTEREB_REZ()
 		do
 		{
 			count++;
-			if(count > 0)	cout<<"!Raspunsul nu este valid.Introduceti un raspuns valid.(Ex: A,B ; a,c ; a, b, c)!"<<endl;
+			if(count > 0)	{cout<<"!Raspunsul nu este valid.Introduceti un raspuns valid.";
+			cout<<"(Ex: A,B ; a,c ; a, b, c)!"<<endl;}
 			cout<<" "<<i<<") ";
 			getline(cin,s,'\n');
 		}
