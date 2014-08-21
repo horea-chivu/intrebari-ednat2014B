@@ -39,5 +39,5 @@ Consider ca acest program poate fi util tuturor celor ce detin aceasta carte.
 IN CE LIMBAJ ESTE SCRIS PROGRAMUL?
 
 In C++.Codul este disponibil pe
-'https'://github.com/chivu-horea/intrebari-ednat2014B' .
+'https://github.com/chivu-horea/intrebari-ednat2014B' .
 
